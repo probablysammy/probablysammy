@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello!
+
+BSc Computer Science student at the University of Nottingham
+
 
 <!--
 **probablysammy/probablysammy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
